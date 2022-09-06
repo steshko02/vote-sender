@@ -1,0 +1,9 @@
+D:\serviceVote\src\main\java\senla\steshko\controller\SenderController.java
+D:\serviceVote\src\main\java\senla\steshko\jms\Sender.java
+D:\serviceVote\src\main\java\senla\steshko\configuration\RabbitMq.java
+D:\serviceVote\src\main\java\senla\steshko\entities\AbstractDto.java
+D:\serviceVote\src\main\java\senla\steshko\service\EventServiceImpl.java
+D:\serviceVote\src\main\java\senla\steshko\entities\EventDto.java
+D:\serviceVote\src\main\java\senla\steshko\VoteSenderApplication.java
+D:\serviceVote\src\main\java\senla\steshko\configuration\RestConfig.java
+D:\serviceVote\src\main\java\senla\steshko\service\EventService.java

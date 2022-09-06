@@ -1,0 +1,9 @@
+senla\steshko\entities\AbstractDto.class
+senla\steshko\configuration\RabbitMq.class
+senla\steshko\configuration\RestConfig.class
+senla\steshko\service\EventService.class
+senla\steshko\entities\EventDto.class
+senla\steshko\controller\SenderController.class
+senla\steshko\jms\Sender.class
+senla\steshko\service\EventServiceImpl.class
+senla\steshko\VoteSenderApplication.class
